@@ -1,16 +1,42 @@
-### Hi there 👋
+## Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></strong>
 
-<!--
-**raphaeljoaguarany/RaphaelJoaguarany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Mais sobre mim
 
-Here are some ideas to get you started:
+```kotlin
+public class MinhaApresentacao {
+    public static void main(String[] args) {
+        System.out.println("Olá! Eu me chamo Raphael Joaguarany.");
+        System.out.println("Tenho conhecimento em Python e atualmente aprendendo a programar em JAVA");
+    }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens e ferramentas
+
+<code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+
+<br>
+<div>
+<a href="[https://github.com/raphaeljoaguarany](https://github.com/raphaeljoaguarany)">
+<img loading="lazy" height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeljoaguarany&layout=compact&langs_count=7&theme=highcontrast"/>
+<img loading="lazy" height="145em" src="https://github-readme-stats.vercel.app/api?username=raphaeljoaguarany&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
+## Rede sociais
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/raphael-joaguarany-de-oliveira" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/raphael-joaguarany-de-oliveira/]" /></a>
+
+  <a href="mailto:raphael1309@hotmail.com" alt="Hotmail">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=[raphael1309@hotmail.com](mailto:raphael1309@hotmail.com)
+
+  [![Gmail Badge](https://img.shields.io/badge/-raphael1309@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphael1309@hotmail.com)](mailto:raphael1309@hotmail.com)
+
+</p>
+
+[![GitHub](https://img.shields.io/github/followers/raphaeljoaguarany?label=follow&style=social)]([![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([![GitHub](https://img.shields.io/github/followers/raphaeljoaguarany?label=follow&style=social)](https://github.com/raphaeljoaguarany)))
