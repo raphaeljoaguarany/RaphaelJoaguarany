@@ -1,4 +1,4 @@
-## <strong>Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></strong>
+## <strong>Hello World! ⌐◨-◨ </strong>
 
 ## Mais sobre mim
 
