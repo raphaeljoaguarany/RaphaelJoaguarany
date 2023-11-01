@@ -9,7 +9,8 @@ public class MinhaApresentacao {
     public static void main(String[] args) {
         System.out.println("Olá! Eu me chamo Raphael Joaguarany de Oliveira, sou Bacharel em Direito.
                             Atualmente estou desbravando uma nova jornada que é este mundo da programação.
-                            Sou apaixonado pelo mundo WEB3 e desenvolvimento Back-end, tenho conhecimento em programação Java e Python.");
+                            Sou apaixonado pelo mundo WEB3 e desenvolvimento Back-end,
+                            tenho conhecimento em programação Java e Python.");
     }
 }
 ```
