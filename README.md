@@ -1,6 +1,6 @@
 ## <strong>Hello World!</strong> ⌐◨-◨
 
-![nouns pc](https://github.com/raphaeljoaguarany/RaphaelJoaguarany/assets/126215131/66d8f1aa-ab8c-4859-889f-786b316294e0)
+![nouns pc](https://github.com/raphaeljoaguarany/RaphaelJoaguarany/assets/126215131/1e1a5e85-ae58-440f-9ff9-7a1942c1ce54)
 
 ## Mais sobre mim
 
