@@ -1,4 +1,4 @@
-## <strong>Hello World!</strong> ⌐◨-◨
+## <strong>Hello World!</strong>
 
 ![nouns pc](https://github.com/raphaeljoaguarany/RaphaelJoaguarany/assets/126215131/1e1a5e85-ae58-440f-9ff9-7a1942c1ce54)
 
