@@ -1,16 +1,21 @@
-## <strong>Hello World!</strong>
+## <strong>GM World!</strong>
 
-![nouns pc](https://github.com/raphaeljoaguarany/RaphaelJoaguarany/assets/126215131/1e1a5e85-ae58-440f-9ff9-7a1942c1ce54)
+...
 
 ## Mais sobre mim
 
 ```kotlin
 public class MinhaApresentacao {
     public static void main(String[] args) {
-        System.out.println("Olá! Eu me chamo Raphael Joaguarany de Oliveira, sou Bacharel em Direito.
-                            Atualmente estou desbravando uma nova jornada que é este mundo da programação.
-                            Sou apaixonado pelo mundo WEB3 e desenvolvimento Back-end,
-                            tenho conhecimento em programação Java e Python.");
+        System.out.println("Olá! Eu me chamo Raphael Joaguarany de Oliveira.
+                            Tenho grande interesse no ecossistema Web3 e especialização no desenvolvimento Back-end,
+                            utilizando linguagens como Java e Python.
+                            Atuo como curador de ativos digitais, com ênfase em Ordinals, Runes e no ecossistema
+                            Bitcoin em geral — acompanhando projetos emergentes, analisando métricas on-chain e
+                            identificando oportunidades dentro do mercado de ativos nativos da blockchain Bitcoin.
+                            Paralelamente, desenvolvo aplicações e bots voltados para automação, análise de dados e
+                            integração com plataformas Web3, contribuindo ativamente para o crescimento e a
+                            descentralização do setor.");
     }
 }
 ```
