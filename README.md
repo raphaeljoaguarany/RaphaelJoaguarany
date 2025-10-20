@@ -4,7 +4,9 @@ Learning, building, sharing — repeat 🔁
 
 ## Mais sobre mim
 
-...
+Sou desenvolvedor focado em criar soluções simples e eficientes.
+Tenho experiência em Java e Python, e gosto de aprender novas tecnologias e ferramentas.
+Sempre buscando evoluir como dev — um commit de cada vez 🚀
 
 ## Linguagens e ferramentas
 
