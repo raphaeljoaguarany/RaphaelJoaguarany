@@ -4,21 +4,7 @@ Learning, building, sharing — repeat 🔁
 
 ## Mais sobre mim
 
-```kotlin
-public class MinhaApresentacao {
-    public static void main(String[] args) {
-        System.out.println("Olá! Eu me chamo Raphael Joaguarany de Oliveira.
-                            Tenho grande interesse no ecossistema Web3 e especialização no desenvolvimento Back-end,
-                            utilizando linguagens como Java e Python.
-                            Atuo como curador de ativos digitais, com ênfase em Ordinals, Runes e no ecossistema
-                            Bitcoin em geral — acompanhando projetos emergentes, analisando métricas on-chain e
-                            identificando oportunidades dentro do mercado de ativos nativos da blockchain Bitcoin.
-                            Paralelamente, desenvolvo aplicações e bots voltados para automação, análise de dados e
-                            integração com plataformas Web3, contribuindo ativamente para o crescimento e a
-                            descentralização do setor.");
-    }
-}
-```
+...
 
 ## Linguagens e ferramentas
 
