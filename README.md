@@ -1,6 +1,6 @@
-## <strong>GM World!</strong>
+## <strong> GM </strong>
 
-...
+Learning, building, sharing — repeat 🔁
 
 ## Mais sobre mim
 
