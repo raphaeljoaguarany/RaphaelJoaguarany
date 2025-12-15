@@ -4,12 +4,19 @@ Learning, building, sharing — repeat 🔁
 
 ## Mais sobre mim
 
-Sou desenvolvedor focado em criar soluções simples e eficientes.
-Tenho experiência em Java e Python, e gosto de aprender novas tecnologias e ferramentas.
-Sempre buscando evoluir como dev — um commit de cada vez 🚀
+```rust
+struct Developer {
+    name: "Raphael Joaguarany",
+    ideology: "Bitcoin Maximalist",
+    mission: "Fix the money, fix the world",
+    trust: "Don't Trust, Verify",
+    node: "Running",
+}
+```
 
 ## Linguagens e ferramentas
 
+<code><img height="45" src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"></code>
 <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
 
@@ -28,7 +35,5 @@ Sempre buscando evoluir como dev — um commit de cada vez 🚀
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/raphael-joaguarany-de-oliveira/)
   [![Gmail Badge](https://img.shields.io/badge/-raphaeljoaguarany.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white)](mailto:raphaeljoaguarany.dev@gmail.com)
-
-  [![GitHub](https://img.shields.io/github/followers/raphaeljoaguarany?label=follow&style=social)](https://github.com/raphaeljoaguarany)
 
 </p>
